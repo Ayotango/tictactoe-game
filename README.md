@@ -1,7 +1,7 @@
 # tictactoe-game
-This is a simple tictactoe game made using Python.
-<br>
----
+**This is a simple tictactoe game made using Python.**
+<br><br>
+
 Welcome message with player selection and position selection:
 <br>
 <br>
